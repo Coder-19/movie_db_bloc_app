@@ -1,0 +1,5 @@
+https://www.themoviedb.org/signup
+
+username:- jasmanarora
+password:- moviedbjasman
+email:- jasmanarora1999@gmail.com
